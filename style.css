@@ -1,0 +1,14 @@
+.row {
+  background: #007CFF;
+  text-align: center;
+  color: white;
+}
+.row-2 div{
+  background: #EB2D43;
+  text-align: center;
+  color: white;
+}
+.container-fluid div{
+  margin: 1px 0;
+  border: 1px solid white;
+}
